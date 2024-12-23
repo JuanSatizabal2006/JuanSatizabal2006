@@ -1,8 +1,8 @@
-## Hi there 👋
+![Banner Profile](https://github.com/user-attachments/assets/4f322de8-730d-4ef3-9a20-94bcf30d938a)
+## Hola, soy Juan José Cuartas there 👋
 
-![Futuristic Demo (1)](https://github.com/user-attachments/assets/4f322de8-730d-4ef3-9a20-94bcf30d938a)
+Lorem ipsum dolor sit amet consectetur adipiscing elit auctor ac, facilisi nibh porttitor euismod sociosqu tortor lacus et magnis, nostra nulla proin augue parturient donec nam mollis. Libero nisl curae senectus hendrerit dignissim felis torquent, quisque platea in ad penatibus bibendum natoque eros, id blandit lobortis pellentesque lacinia ridiculus
 
-#Prueba imagen
 
 <!--
 **JuanSatizabal2006/JuanSatizabal2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
