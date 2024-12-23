@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+![Futuristic Demo](https://github.com/user-attachments/assets/b5132d0e-aaaa-4e18-be9f-d5fe236bdee9)
+
+#Prueba imagen
+
 <!--
 **JuanSatizabal2006/JuanSatizabal2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
