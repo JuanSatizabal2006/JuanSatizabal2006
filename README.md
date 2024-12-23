@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Futuristic Demo](https://github.com/user-attachments/assets/b5132d0e-aaaa-4e18-be9f-d5fe236bdee9)
+![Futuristic Demo (1)](https://github.com/user-attachments/assets/4f322de8-730d-4ef3-9a20-94bcf30d938a)
 
 #Prueba imagen
 
