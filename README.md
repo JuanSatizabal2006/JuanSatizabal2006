@@ -2,7 +2,7 @@
 <h1> Hola, soy Juan José Cuartas 👋 </h1>
 
 <p>  
-<bold>Desarrollador web</bold> apasionado por crear soluciones funcionales y atractivas. Manejo tecnologías como React, Django y Node.js, y siempre estoy buscando aprender algo nuevo. Sueño con adentrarme en la inteligencia artificial y contribuir con proyectos innovadores.
+Desarrollador web apasionado por crear soluciones funcionales y atractivas. Manejo tecnologías como React, Django y Node.js, y siempre estoy buscando aprender algo nuevo. Sueño con adentrarme en la inteligencia artificial y contribuir con proyectos innovadores.
 </p>
 
 <h2> Tecnologías que conozco 👨🏻‍💻 </h2>
