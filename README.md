@@ -2,7 +2,7 @@
 <h1> Hola, soy Juan José Cuartas 👋 </h1>
 
 <p>  
-Lorem ipsum dolor sit amet consectetur adipiscing elit auctor ac, facilisi nibh porttitor euismod sociosqu tortor lacus et magnis, nostra nulla proin augue parturient donec nam mollis. Libero nisl curae senectus hendrerit dignissim felis torquent, quisque platea in ad penatibus bibendum natoque eros, id blandit lobortis pellentesque lacinia ridiculus
+<bold>Desarrollador web</bold> apasionado por crear soluciones funcionales y atractivas. Manejo tecnologías como React, Django y Node.js, y siempre estoy buscando aprender algo nuevo. Sueño con adentrarme en la inteligencia artificial y contribuir con proyectos innovadores.
 </p>
 
 <h2> Tecnologías que conozco 👨🏻‍💻 </h2>
