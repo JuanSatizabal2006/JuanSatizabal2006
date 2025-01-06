@@ -14,7 +14,7 @@ Desarrollador web apasionado por crear soluciones funcionales y atractivas. Mane
 
 <h2> Contáctame 🤝 </h2>
 <p>📧 : juansatizabal2701@gmail.com </p>
-<p>📞 : +57 315 582 8254 </p>
+<p>📞 : +57 322 905 3341 </p>
 
 <!--
 **JuanSatizabal2006/JuanSatizabal2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
