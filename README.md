@@ -8,7 +8,7 @@ Desarrollador web apasionado por crear soluciones funcionales y atractivas. Mane
 <h2> Tecnologías que conozco 👨🏻‍💻 </h2>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,astro,react,tailwind,bootstrap,figma,ai,premiere,blender,netlify,vscode,visualstudio,py,django,nodejs,express,mysql,postgres,sqlite,postman,git,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,astro,react,tailwind,bootstrap,figma,ai,premiere,blender,netlify,vscode,visualstudio,py,django,nodejs,express,mysql,postgres,postman,git,github" />
   </a>
 </p>
 
