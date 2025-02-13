@@ -15,4 +15,10 @@ Desarrollador web apasionado por crear soluciones funcionales y atractivas. Mane
 <h2> Contáctame 🤝 </h2>
 <p>📧 : juansatizabal2701@gmail.com </p>
 <p>📞 : +57 322 905 3341 </p>
-👉 [¡Visita mi portafolio!](https://portfoliojuandev2006.netlify.app/)
+
+<h3>
+  <a href="https://portfoliojuandev2006.netlify.app/">
+       👉 !Visita mi portafolio!
+  </a>
+</h3>
+
